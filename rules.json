@@ -1,0 +1,332 @@
+[
+  {
+    "from": "Viettel",
+    "to": "__ENC_001__",
+    "enabled": true
+  },
+  {
+    "from": "Mobi",
+    "to": "__ENC_002__",
+    "enabled": true
+  },
+  {
+    "from": "Vina",
+    "to": "__ENC_003__",
+    "enabled": true
+  },
+  {
+    "from": "AGG",
+    "to": "__ENC_004__",
+    "enabled": true
+  },
+  {
+    "from": "BDG",
+    "to": "__ENC_005__",
+    "enabled": true
+  },
+  {
+    "from": "BLU",
+    "to": "__ENC_006__",
+    "enabled": true
+  },
+  {
+    "from": "BPC",
+    "to": "__ENC_007__",
+    "enabled": true
+  },
+  {
+    "from": "BTE",
+    "to": "__ENC_008__",
+    "enabled": true
+  },
+  {
+    "from": "CMU",
+    "to": "__ENC_009__",
+    "enabled": true
+  },
+  {
+    "from": "CTO",
+    "to": "__ENC_010__",
+    "enabled": true
+  },
+  {
+    "from": "DNI",
+    "to": "__ENC_011__",
+    "enabled": true
+  },
+  {
+    "from": "DTP",
+    "to": "__ENC_012__",
+    "enabled": true
+  },
+  {
+    "from": "HCM",
+    "to": "__ENC_013__",
+    "enabled": true
+  },
+  {
+    "from": "HUG",
+    "to": "__ENC_014__",
+    "enabled": true
+  },
+  {
+    "from": "KGG",
+    "to": "__ENC_015__",
+    "enabled": true
+  },
+  {
+    "from": "LAN",
+    "to": "__ENC_016__",
+    "enabled": true
+  },
+  {
+    "from": "STG",
+    "to": "__ENC_017__",
+    "enabled": true
+  },
+  {
+    "from": "TGG",
+    "to": "__ENC_018__",
+    "enabled": true
+  },
+  {
+    "from": "TNH",
+    "to": "__ENC_019__",
+    "enabled": true
+  },
+  {
+    "from": "TVH",
+    "to": "__ENC_020__",
+    "enabled": true
+  },
+  {
+    "from": "VLG",
+    "to": "__ENC_021__",
+    "enabled": true
+  },
+  {
+    "from": "VTU",
+    "to": "__ENC_022__",
+    "enabled": true
+  },
+  {
+    "from": "BDH",
+    "to": "__ENC_023__",
+    "enabled": true
+  },
+  {
+    "from": "BTN",
+    "to": "__ENC_024__",
+    "enabled": true
+  },
+  {
+    "from": "DLK",
+    "to": "__ENC_025__",
+    "enabled": true
+  },
+  {
+    "from": "DCN",
+    "to": "__ENC_026__",
+    "enabled": true
+  },
+  {
+    "from": "DNG",
+    "to": "__ENC_027__",
+    "enabled": true
+  },
+  {
+    "from": "GLI",
+    "to": "__ENC_028__",
+    "enabled": true
+  },
+  {
+    "from": "KHA",
+    "to": "__ENC_029__",
+    "enabled": true
+  },
+  {
+    "from": "KTM",
+    "to": "__ENC_030__",
+    "enabled": true
+  },
+  {
+    "from": "LDG",
+    "to": "__ENC_031__",
+    "enabled": true
+  },
+  {
+    "from": "NTN",
+    "to": "__ENC_032__",
+    "enabled": true
+  },
+  {
+    "from": "PYN",
+    "to": "__ENC_033__",
+    "enabled": true
+  },
+  {
+    "from": "QTI",
+    "to": "__ENC_034__",
+    "enabled": true
+  },
+  {
+    "from": "QNI",
+    "to": "__ENC_035__",
+    "enabled": true
+  },
+  {
+    "from": "QNM",
+    "to": "__ENC_036__",
+    "enabled": true
+  },
+  {
+    "from": "TTH",
+    "to": "__ENC_037__",
+    "enabled": true
+  },
+  {
+    "from": "BGG",
+    "to": "__ENC_038__",
+    "enabled": true
+  },
+  {
+    "from": "BNH",
+    "to": "__ENC_039__",
+    "enabled": true
+  },
+  {
+    "from": "BKN",
+    "to": "__ENC_040__",
+    "enabled": true
+  },
+  {
+    "from": "CBG",
+    "to": "__ENC_041__",
+    "enabled": true
+  },
+  {
+    "from": "DBN",
+    "to": "__ENC_042__",
+    "enabled": true
+  },
+  {
+    "from": "HNI",
+    "to": "__ENC_043__",
+    "enabled": true
+  },
+  {
+    "from": "HBH",
+    "to": "__ENC_044__",
+    "enabled": true
+  },
+  {
+    "from": "HGG",
+    "to": "__ENC_045__",
+    "enabled": true
+  },
+  {
+    "from": "HPG",
+    "to": "__ENC_046__",
+    "enabled": true
+  },
+  {
+    "from": "HTH",
+    "to": "__ENC_047__",
+    "enabled": true
+  },
+  {
+    "from": "HDG",
+    "to": "__ENC_048__",
+    "enabled": true
+  },
+  {
+    "from": "HYN",
+    "to": "__ENC_049__",
+    "enabled": true
+  },
+  {
+    "from": "LCI",
+    "to": "__ENC_050__",
+    "enabled": true
+  },
+  {
+    "from": "LSN",
+    "to": "__ENC_051__",
+    "enabled": true
+  },
+  {
+    "from": "LCU",
+    "to": "__ENC_052__",
+    "enabled": true
+  },
+  {
+    "from": "NBH",
+    "to": "__ENC_053__",
+    "enabled": true
+  },
+  {
+    "from": "NAN",
+    "to": "__ENC_054__",
+    "enabled": true
+  },
+  {
+    "from": "NDH",
+    "to": "__ENC_055__",
+    "enabled": true
+  },
+  {
+    "from": "HNM",
+    "to": "__ENC_056__",
+    "enabled": true
+  },
+  {
+    "from": "PTO",
+    "to": "__ENC_057__",
+    "enabled": true
+  },
+  {
+    "from": "QNH",
+    "to": "__ENC_058__",
+    "enabled": true
+  },
+  {
+    "from": "QBH",
+    "to": "__ENC_059__",
+    "enabled": true
+  },
+  {
+    "from": "SLA",
+    "to": "__ENC_060__",
+    "enabled": true
+  },
+  {
+    "from": "TQG",
+    "to": "__ENC_061__",
+    "enabled": true
+  },
+  {
+    "from": "TBH",
+    "to": "__ENC_062__",
+    "enabled": true
+  },
+  {
+    "from": "THA",
+    "to": "__ENC_063__",
+    "enabled": true
+  },
+  {
+    "from": "TNN",
+    "to": "__ENC_064__",
+    "enabled": true
+  },
+  {
+    "from": "VPC",
+    "to": "__ENC_065__",
+    "enabled": true
+  },
+  {
+    "from": "YBI",
+    "to": "__ENC_066__",
+    "enabled": true
+  }
+]
