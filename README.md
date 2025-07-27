@@ -23,7 +23,7 @@ Viết bằng Python 3.11 + Tkinter (ttkbootstrap), đóng gói PyInstaller.
 
 | Phiên bản | Link tải | Ghi chú |
 |----------|----------|--------|
-| `MacOS .app` | [Download main_app-macOS.zip](https://github.com/your-username/encodeappl/releases) | Dùng trực tiếp trên macOS |
+| `MacOS .app` | [Download main_app-macOS.zip](https://github.com/hoctro01/encodeappl/releases/download/v1.0.0/main_app_macos.zip) | Dùng trực tiếp trên macOS |
 | `Windows .exe` | _Coming soon_ | |
 
 ---
